@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571331499 source:d:\00-uema\disciplinas 2019.2\estrutura de dados b¡sicos\codebloks\testelista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<conio.h>
+

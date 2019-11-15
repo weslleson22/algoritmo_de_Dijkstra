@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1566871657 source:d:\00-uema\disciplinas 2019.2\estrutura de dados b¡sicos\codebloks\desafio1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1566871810 source:d:\00-uema\disciplinas 2019.2\estrutura de dados b¡sicos\codebloks\desafio1\preencher_vetor.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+

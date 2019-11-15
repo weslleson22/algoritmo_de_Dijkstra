@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1571339792 source:d:\00-uema\disciplinas 2019.2\estrutura de dados b¡sicos\codebloks\edbtp\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1571342957 source:d:\00-uema\disciplinas 2019.2\estrutura de dados b¡sicos\codebloks\edbtp\cadastrocliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<conio.h>
+
+1571344199 source:d:\00-uema\disciplinas 2019.2\estrutura de dados b¡sicos\codebloks\edbtp\cadastropedido.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1571339764 source:d:\00-uema\disciplinas 2019.2\estrutura de dados b¡sicos\codebloks\edbtp\pedido.c
+

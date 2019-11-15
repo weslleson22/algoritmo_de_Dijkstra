@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1566845805 source:c:\users\user\pictures\saved pictures\estrutura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1566845609 source:c:\users\user\pictures\saved pictures\estrutura\vetor1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1566845529 source:c:\users\user\pictures\saved pictures\estrutura\mostravetor1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

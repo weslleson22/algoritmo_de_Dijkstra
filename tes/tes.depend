@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571339223 source:d:\00-uema\disciplinas 2019.2\estrutura de dados b¡sicos\codebloks\tes\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
