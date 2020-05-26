@@ -13,7 +13,7 @@ void dijkstra(int vertices,int origem,int destino,int *custos)
 {
   int i,v, cont = 0;
   int *ant, *tmp; 
-  int *z; /* vertices para os quais se conhece o caminho minimo */
+  int *z; /* vertices para os quaisse conhece o caminho minimo */
   double min;
   double dist[vertices]; /* vetor com os custos dos caminhos */
 
